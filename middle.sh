@@ -1,5 +1,1 @@
-head -n 15 octane.pdb | tail -n 5
-+ o
-+ x
-
-
+head -n 15 | tail -n 5
